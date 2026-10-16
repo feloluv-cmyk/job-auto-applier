@@ -1,0 +1,6 @@
+streamlit
+google-genai
+geopy
+fpdf2
+beautifulsoup4
+requests
